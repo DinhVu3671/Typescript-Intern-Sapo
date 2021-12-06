@@ -1,0 +1,12 @@
+.createModal {
+    width: 700px;
+    align-items: center;
+    background-color: white;
+    border: 1px solid rgb(182, 179, 179);
+    margin: auto ;
+    margin-top: 150px;
+}
+.test {
+    display: flex;
+    justify-content: center;
+}

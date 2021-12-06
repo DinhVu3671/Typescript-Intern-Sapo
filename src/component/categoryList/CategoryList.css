@@ -1,0 +1,53 @@
+.header-page {
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    margin: 40px 0px;
+}
+.user {
+    float: right;
+    margin-right: 15px;
+    margin-top: -15px;
+    cursor: pointer;
+}
+
+.table-category {
+    align-items: center;
+    
+    margin: 30px auto;
+    width: 80vw;
+    
+}
+.user-detai-drop {
+    text-align: center;
+    width: 30px;
+}
+table {
+    margin: 0px auto;
+}
+
+.btn-create {
+    margin-left: -880px;
+    margin-bottom: 10px;
+    background-color: #48b9df;
+    display: inline-block;
+    
+}
+.btn-detail {
+    width: 80px;
+}
+
+.createModal {
+    width: 900px;
+    box-shadow: 2px 2px gray;
+    align-items: center;
+    background-color: rgb(231, 231, 231);
+    border: 1px solid rgb(216, 216, 216);
+    margin: auto ;
+    margin-top: 150px;
+}
+
+#table-pagination {
+    margin-top: 40px;
+    margin-left: 20px;
+}
